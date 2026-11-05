@@ -146,8 +146,8 @@ Maven ni potreben; uporabite priloženi Maven Wrapper (`mvnw`).
 ### 4.2 Kloniranje repozitorija
 
 ```bash
-git clone https://github.com/<UPORABNISKO_IME>/<IME_REPOZITORIJA>.git
-cd <IME_REPOZITORIJA>
+git clone https://github.com/mojsov/expense-tracker.git
+cd expense-tracker
 ```
 
 ### 4.3 Vzpostavitev baze
